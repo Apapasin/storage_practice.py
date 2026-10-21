@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "Не работает вход",
+        "severity": "high",
+        "status": "open"
+    },
+    {
+        "id": 4,
+        "title": "Опечатка в расписании",
+        "severity": "low",
+        "status": "closed"
+    },
+    {
+        "id": 7,
+        "title": "Не сохраняется профиль",
+        "severity": "medium",
+        "status": "in_progress"
+    }
+]
